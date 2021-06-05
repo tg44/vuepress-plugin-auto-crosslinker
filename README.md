@@ -1,4 +1,6 @@
-#Vuepress Plugin auto-crosslinker
+# Vuepress Plugin auto-crosslinker
+
+[![npm](https://img.shields.io/npm/v/vuepress-plugin-auto-crosslinker)](https://www.npmjs.com/package/vuepress-plugin-auto-crosslinker)
 
 This is a vuepress plugin wrapper around [markdown-it-auto-crosslinker](https://github.com/tg44/markdown-it-auto-crosslinker)!
 
