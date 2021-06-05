@@ -1,0 +1,27 @@
+{
+  "name": "vuepress-plugin-auto-crosslinker",
+  "version": "1.0.0",
+  "description": "Automatically cross-links pages at first appearance",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tg44/vuepress-plugin-auto-crosslinker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tg44/vuepress-plugin-auto-crosslinker/issues"
+  },
+  "homepage": "https://github.com/tg44/vuepress-plugin-auto-crosslinker",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "vuepress",
+    "vuepress-plugin",
+    "wiki",
+    "crosslink",
+    "crosslinker"
+  ],
+  "author": "Gergo Torcsvari",
+  "license": "MIT",
+  "dependencies": {
+    "markdown-it-auto-crosslinker": "^1.0.0"
+  }
+}
